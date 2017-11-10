@@ -6,3 +6,4 @@
 博客：http://www.cnblogs.com/msxh/p/4966899.html 是很重要的关于pygame开发的讲解，可以参考。
 
 下面给出这款游戏的截图：
+![picture](https://github.com/acmac/game-alien_invasion/blob/master/game_picture.png)
